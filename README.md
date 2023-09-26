@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am Izet Delibasic</samp>
+        <samp>&gt; Welcome to my world of programming!</samp>
 </h3>
 
 
