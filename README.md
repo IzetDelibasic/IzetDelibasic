@@ -35,8 +35,9 @@
 
 - 📚 Software engineering student at Faculty of Information technologies - Mostar
 - 📌 2023 Goals: Contribute more and improve my skills
-- 💬 Reach me anytime: izetdelibasic55@gmail.com
+- 💬 Reach me anytime: <a href="mailto:izetdelibasic55@gmail.com">Get in touch</a>
 - ⚡ Fun fact: I'm a handball player⚽
+- ☁️ Curriculum Vitae: [Click here]([link_do_vašeg_CV](https://github.com/IzetDelibasic/IzetDelibasic/blob/main/Izet%20Delibasic%20-%20Curriculum%20Vitae.png?raw=true))
 
 ![](https://komarev.com/ghpvc/?username=IzetDelibasic&color=blue)
 </p>
