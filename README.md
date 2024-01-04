@@ -34,12 +34,11 @@
   
 
 - 📚 Software engineering student at Faculty of Information technologies - Mostar
-- 📌 2023 Goals: Contribute more and improve my skills
+- 📌 2024 Goals: Contribute more and improve my skills to higher level
 - 💬 Reach me anytime: <a href="mailto:izetdelibasic55@gmail.com">Get in touch</a>
 - ⚡ Fun fact: I'm a handball player⚽
 - ☁️ Curriculum Vitae: <a href="https://github.com/IzetDelibasic/IzetDelibasic/raw/main/Izet%20Delibasic%20-%20Curriculum%20Vitae.png">Click here</a>
 
-![](https://komarev.com/ghpvc/?username=IzetDelibasic&color=blue)
 </p>
 <br/>
 
