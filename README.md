@@ -25,38 +25,21 @@
 <br />
 
 <!-- About Section -->
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-<h3>About me</h3>
- 
-<p>
-
-
-  
-
-- 📚 Software engineering student at Faculty of Information technologies - Mostar
-- 📌 2024 Goals: Contribute more and improve my skills to higher level
-- 💬 Reach me anytime: <a href="mailto:izetdelibasic55@gmail.com">Get in touch</a>
-- ⚡ Fun fact: I'm a handball player⚽
-- ☁️ Curriculum Vitae: <a href="https://github.com/IzetDelibasic/IzetDelibasic/raw/main/Izet%20Delibasic%20-%20Curriculum%20Vitae.png">Click here</a>
-
-</p>
-<br/>
-
-<div align="center">
-  <h2>Languages and Tools which I'm Learning and Using:</h2>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="50" height="50" alt="C++" />
-    <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="50" height="50" alt="C#" />
-    <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" height="50" alt="JavaScript" />
-    <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="50" height="50" alt="React" />
-    <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="50" height="50" alt="Next.js" />
-    <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="50" height="50" alt="Tailwind CSS" />
-    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="50" alt="Git" />
-    <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" width="50" height="50" alt="Firebase" />
-  </div>
-</div>
-
-<br/>
-
-
-
+```javascript
+const IzetDelibasic = {
+  pronouns: "he" || "him",
+  languages: ["Javascript", "Typescript", "C++", "C#"],
+  tools: ["TailwindCSS", "GIT", "Firebase"],
+  using: ["React", "Next", "Node"],
+  becomeFrontendDeveloper: true,
+  about: {
+    education: "Faculty of Information Technologies",
+    educationYear: "Second Year",
+    years: 20,
+    location: "Kakanj",
+    studyLocation: "Mostar",
+    activity: ["playing handball", "creating new projects and constantly working on them"]
+  },
+  challenge: "Contributing more and improving my skills to a higher level."
+};
+```
