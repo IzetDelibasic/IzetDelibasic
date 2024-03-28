@@ -27,7 +27,7 @@
 <!-- About Section -->
 ```javascript
 const IzetDelibasic = {
-  pronouns: "he" || "him",
+  email: "izetdelibasic55@gmail.com",
   languages: ["Javascript", "Typescript", "C++", "C#"],
   tools: ["TailwindCSS", "GIT", "Firebase"],
   using: ["React", "Next", "Node"],
